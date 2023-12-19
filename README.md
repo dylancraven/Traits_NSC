@@ -5,7 +5,7 @@ Carbohydrate reserves play a vital role in plant survival during periods of nega
 
 ## Table of Contents  
 1. Data
-2. phylo models
+2. Phylo models
 
 ## Citation and contact 
 
@@ -13,7 +13,7 @@ Data and code are publicly available but should be referenced by citing the corr
 
 Ramirez, J.A., Craven, D., Posada, J.M., Reu, B., Sierra, C.A., Hoch, G., Handa, I.T. & Messier, C. (2023) Non-structural carbohydrate concentrations in woody organs, but not leaves, of temperate and tropical tree angiosperms are independent of the ‘fast-slow’ plant economic spectrum. https://doi.org/10.1101/2021.04.20.440698
 
-Please contact [Dylan Craven](mailto:dylan.craven@aya.yale.edu) with questions.
+Please contact [Jorge Ramírez](mailto:j.ramirez@unicauca.edu.co) or [Dylan Craven](mailto:dylan.craven@aya.yale.edu) with questions.
 
 ## Licence  
  
