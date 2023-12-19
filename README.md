@@ -2,11 +2,6 @@
 
 Carbohydrate reserves play a vital role in plant survival during periods of negative carbon balance. Under a carbon-limited scenario, there is a trade-off between carbon allocation to growth and to reserves and defense. A resulting hypothesis is that allocation to reserves exhibits a coordinated variation with functional traits associated with the ‘fast-slow’ plant economics spectrum. We tested the relationship between non-structural carbohydrates (NSC) of tree organs and functional traits using 61 angiosperm tree species from temperate and tropical forests with phylogenetic hierarchical Bayesian models. 
 
-
-## Table of Contents  
-1. Data
-2. Phylo models
-
 ## Citation and contact 
 
 Data and code are publicly available but should be referenced by citing the corresponding data paper:
